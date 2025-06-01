@@ -31,8 +31,8 @@ const ProjectsSection = () => {
 
     },
     {
-      title: "Restaurant App",
-      description: "Restaurant ordering system with payment integration",
+      title: "Hotelio App",
+      description: "is a user-friendly digital platform designed to enhance the guest experience and streamline hotel operations by enabling users to browse and book rooms, check availability in real-time, complete online check-in and check-out, and make secure payments",
       image: projectImage4,
       tags: ["Flutter", "Firebase"],
       github: "https://github.com/muh-hidayaat/hotelio-app"
