@@ -27,12 +27,12 @@ const ProjectsSection = () => {
       description: "Creative portfolio with modern design",
       image: projectImage3,
       tags: ["React"],
-      github: "https://github.com/muh-hidayaat/"
+      github: "https://github.com/muh-hidayaat/portofolio"
 
     },
     {
       title: "Hotelio App",
-      description: "is a user-friendly digital platform designed to enhance the guest experience and streamline hotel operations by enabling users to browse and book rooms, check availability in real-time, complete online check-in and check-out, and make secure payments",
+      description: "Hotelio App is a Flutter-based mobile application designed to showcase a hotel’s services and featuresis a user-friendly digital platform designed to enhance the guest experience and streamline hotel operations by enabling users to browse and book rooms, check availability in real-time",
       image: projectImage4,
       tags: ["Flutter", "Firebase"],
       github: "https://github.com/muh-hidayaat/hotelio-app"
